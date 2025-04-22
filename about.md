@@ -3,5 +3,5 @@ layout: layout.liquid
 title: About
 ---
 
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+# About **Gustav Klimt**
+<img class="about" alt="Gustav Klimt's 'The Virgin' " src="/images/klimt.png" width="500" />
